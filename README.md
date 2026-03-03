@@ -1,4 +1,4 @@
-# Bluetooth_Car_Control_Using_Arduino
+# Bluetooth Controlled Robot Car
 
 This repository contains the Arduino code for a simple **Bluetooth-controlled robot car**. The robot uses an Arduino board, an L298N-based motor driver (Adafruit Motor Shield compatible), and a Bluetooth module (HC-05/HC-06) to receive commands from a smartphone or computer. It can move forward, backward, turn left/right, and perform diagonal movements.
 
